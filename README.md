@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
 <link rel="icon" type="image/JPG" href="memo.JPEG">
-    <title>1st year PROJECT</title>
+    REAL START
     <link rel="stylesheet" href="css.style.css">
 </head>
 </body>
