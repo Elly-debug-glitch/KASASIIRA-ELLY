@@ -1,0 +1,106 @@
+body{
+    background-color: white;
+}
+h1{
+    color: black;
+}
+#p1{
+    color: #6c4141;
+}
+#p2{
+    color: blue;
+}
+#p3{
+    color: yellow;
+}
+#p4{
+    color: orange;
+}
+#p5{
+    color: darkgreen;
+}
+h1{
+    font-family: "Arial Black";
+    font-size: 25px;
+}
+body{
+    font-family: Cambria;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
+footer{
+    border-style: outset;
+    border-width: 5px;
+    border-color: #274227;
+    border-radius: 15px;
+}
+header{
+    border-style: inset;
+    border-width: 18px;
+    border-color: black;
+    border-radius: 25px;
+}
+#p1{
+    border-style: solid;
+    border-color: #752f75;
+    border-radius: 10px;
+}
+h1{
+    text-shadow: 3px 8px 5px #e49a11;
+}
+#ul div{
+    border: solid;
+}
+a:link{
+    color: darkgreen;
+}
+a:hover{
+    color: lightcoral;
+    font-size: 1.2em;
+}
+.pagination{
+    text-align: center;
+}
+.pagination a{
+    color: black;
+    text-decoration: none;
+    padding: 6px 15px;
+    display: inline-grid;
+}
+.pagination a.active{
+   background-color: #15930c;
+    font-weight: bold;
+    border-radius: 8px;
+}
+.pagination a:hover:not(active){
+    background-color: #dadfe1;
+    font-weight: normal;
+    border-radius: 8px;
+}
+h1{
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: #698569;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: #0c0404;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: white;
+}
+.navbar li{
+    float: left;
+}
+main{
+    margin: 20px;
+}
